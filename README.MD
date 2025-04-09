@@ -20,6 +20,14 @@ A simple backend for authentication system with a non-sequential database (Mongo
 - Bcrypt.js for password hashing
 - Nodemailer for sending emails
 
+<h2 align="left">Installation</h2>
+
+- Clone the repository: `git clone https://github.com/Jay-Govind-Kumar/Authentication-System-with-NonSequential-Database.git`
+- Navigate to the project directory: `cd Authentication-System-with-NonSequential-Database`
+- Install dependencies: `npm install`
+- Create a `.env` file and set the necessary environment variables using the `.env.example` file
+- Start the server: `npm run start`
+
 ## Contributing
 
 - Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
